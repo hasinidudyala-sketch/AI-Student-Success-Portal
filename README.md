@@ -90,12 +90,11 @@ streamlit run app.py
 
 ### Hasini Dudyala
 
-Final Year B.Tech – Computer Science Engineering
+B.Tech (Artificial Intelligence & Machine Learning) – 3rd Year Student
 
-Interested in Software Testing, Machine Learning, Data Analytics, and Full-Stack Application Development.
+Skilled in Python, Machine Learning, Data Analytics, and Web Application Development.
 
----
-
+Passionate about building AI-powered solutions and continuously improving technical and problem-solving skills.
 ## 📜 License
 
 This project is developed for educational and academic purposes.
